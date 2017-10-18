@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecorderVideoDemo</string>
+    <string name="The_video_to_start">录像开始</string>
+
+    <string name="Whether_to_send">是否确定？</string>
+
+    <string name="Open_the_equipment_failure">打开设备失败!</string>
+    <string name="ok">确定</string>
+
+    <string name="cancel">取消</string>
+    <string name="prompt">提示</string>
+</resources>
